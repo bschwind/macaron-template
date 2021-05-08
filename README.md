@@ -1,6 +1,6 @@
 # macaron-template
 
-A simple OpenSCAD design that can be exported to PDF and printed for a macaron piping template.
+A simple [OpenSCAD](https://openscad.org/) design that can be exported to PDF and printed for a macaron piping template.
 
 ## Printing
 
